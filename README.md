@@ -1,0 +1,2 @@
+# TCC
+Repositório do Trabalho de Conclusão de Curso DETECÇÃO E IDENTIFICAÇÃO DE DOENÇAS EM FOLHAS UTILIZANDO REDES NEURAIS
